@@ -11,9 +11,8 @@ modèle d’extraction d’attributs simple sera, aussi, utilisé.
 
 Votre programme doit contenir 4 parties majeures :
 
-        • Une interface graphique pour recevoir un texte et puis prédire si c’est fake ou bien real.
-	
-        • Une phase de vectorization du texte (nettoyage, normalization, stemming, indexation, ponderation) 
+        • Une interface graphique pour recevoir un texte et puis prédire si c’est fake ou bien real. 
+        • Une phase de vectorization du texte (nettoyage, normalization, stemming, indexation, ponderation)  
         • Une phase d’apprentissage (RN, paramètres, nb de couches cachées et de neurones cachés, fonction d’activation,...), et de test, avec mesure de performances pour       
-        comparer les différents modèles. 
-        • Une phase de verification de l’information et affichage du résultat 
+        comparer les différents modèles.  
+        • Une phase de verification de l’information et affichage du résultat. 
